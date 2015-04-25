@@ -1,2 +1,2 @@
-# PyPortManager
+# PyInvest
 My first GitHub repository
